@@ -6,7 +6,7 @@ import 'package:shared_preferences/shared_preferences.dart';
 
 import './WeatherResponse.dart';
 
-const API_KEY = '57a52b107eae37bea42fff1e42718a9a';
+const API_KEY = '<YOUR_OPEN_WEATHER_MAP_API_KEY>';
 
 class MyHomePage extends StatefulWidget {
   MyHomePage({Key key, this.title}) : super(key: key);
